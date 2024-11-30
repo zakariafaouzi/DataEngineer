@@ -1,0 +1,47 @@
+[
+    {
+        "id": 1,
+        "nom": "Alice",
+        "age": 29,
+        "poste": "Data Scientist",
+        "departement": "Recherche",
+        "salaire": 85000,
+        "date_embauche": "2020-01-15"
+    },
+    {
+        "id": 2,
+        "nom": "Bob",
+        "age": 34,
+        "poste": "Software Engineer",
+        "departement": "Ingénierie",
+        "salaire": 95000,
+        "date_embauche": "2018-06-25"
+    },
+    {
+        "id": 3,
+        "nom": "Charlie",
+        "age": 38,
+        "poste": "Product Manager",
+        "departement": "Produit",
+        "salaire": 105000,
+        "date_embauche": "2017-09-10"
+    },
+    {
+        "id": 4,
+        "nom": "David",
+        "age": 25,
+        "poste": "Data Analyst",
+        "departement": "Recherche",
+        "salaire": 65000,
+        "date_embauche": "2021-02-20"
+    },
+    {
+        "id": 5,
+        "nom": "Eve",
+        "age": 29,
+        "poste": "Data Scientist",
+        "departement": "Recherche",
+        "salaire": 90000,
+        "date_embauche": "2019-11-03"
+    }
+]

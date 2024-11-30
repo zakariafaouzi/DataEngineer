@@ -1,0 +1,42 @@
+[
+    {
+        "id_produit": 1,
+        "nom_produit": "Ordinateur portable",
+        "categorie": "Électronique",
+        "prix": 1200.00,
+        "quantite_stock": 150,
+        "date_lancement": "2021-04-01"
+    },
+    {
+        "id_produit": 2,
+        "nom_produit": "Casque audio",
+        "categorie": "Électronique",
+        "prix": 150.00,
+        "quantite_stock": 350,
+        "date_lancement": "2022-02-15"
+    },
+    {
+        "id_produit": 3,
+        "nom_produit": "Smartphone",
+        "categorie": "Électronique",
+        "prix": 700.00,
+        "quantite_stock": 200,
+        "date_lancement": "2021-06-30"
+    },
+    {
+        "id_produit": 4,
+        "nom_produit": "Montre connectée",
+        "categorie": "Accessoires",
+        "prix": 250.00,
+        "quantite_stock": 180,
+        "date_lancement": "2020-08-10"
+    },
+    {
+        "id_produit": 5,
+        "nom_produit": "Clavier mécanique",
+        "categorie": "Accessoires",
+        "prix": 120.00,
+        "quantite_stock": 400,
+        "date_lancement": "2023-01-05"
+    }
+]
